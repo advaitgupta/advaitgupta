@@ -1,16 +1,28 @@
-### Hi there 👋
+<!-- Zero width character is used to put extra blank lines before and after code -->
 
-<!--
-**advaitgupta/advaitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+    
+```c++
+​
+from __future__ import annotations
 
-Here are some ideas to get you started:
+import json
+from dataclasses import asdict, dataclass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+@dataclass
+class Arsenal:
+    languages: tuple[str, ...] = ("C++", "JAVA")
+    love: tuple[str, ...] = ("Coding", "Designing Algorithms")
+    projects     : tuple[str, ...] = ("Battleship")
+    upcoming  : tuple[str, ...] = ("RGPTI Banking System")
+
+    def jsonify(self) -> str:
+        return json.dumps(asdict(self), indent=4)
+
+
+arsenal = Arsenal()
+print(arsenal.jsonify())
+​
+```
+</h3>
