@@ -4,25 +4,25 @@
     
 ```c++
 ​
-from __future__ import annotations
-
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Arsenal:
-    languages: tuple[str, ...] = ("C++", "JAVA")
-    love: tuple[str, ...] = ("Coding", "Designing Algorithms")
-    projects     : tuple[str, ...] = ("Battleship")
-    upcoming  : tuple[str, ...] = ("RGPTI Banking System")
-
-    def jsonify(self) -> str:
-        return json.dumps(asdict(self), indent=4)
+#include <iostream>
+#include <vector>
+#include<algorithm>
+using namespace std;
+#define passion coding
 
 
-arsenal = Arsenal()
-print(arsenal.jsonify())
+
+int about_me
+    {
+    vector<string> languages = {"C++", "JAVA"};
+    vector<string> love = {"Coding", "Designing Efficient Algorithms", "Debugging"};
+    vector<string> projects = {"Battleship.java"};
+    vector<string> upcoming projects = {"RGPTI Banking System"};
+    cout<<"Visit me at [LinkedIn](https://www.linkedin.com/in/advait-gupta-349b4465/)"<<endl;
+    cout<<"Visit me at [Instagram](https://www.instagram.com/advait__52/)"<<endl;
+    cout<<"My Project: https://github.com/advaitgupta/Battleship"<<endl;
+    cout<<"Thanks for visiting";
+    }
 ​
 ```
 </h3>
