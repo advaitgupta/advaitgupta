@@ -1,6 +1,6 @@
 <!-- Zero width character is used to put extra blank lines before and after code -->
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Advait here!</h1>
-Freshman at RGIPT(An INI at par with the IITs)
+Junior Year at RGIPT(An INI at par with the IITs)
 
 My Moto: Code hard, think harder, enjoy hardest.
 
