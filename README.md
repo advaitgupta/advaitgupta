@@ -1,6 +1,6 @@
 <!-- Zero width character is used to put extra blank lines before and after code -->
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Advait here!</h1>
-Junior Year at RGIPT(An INI at par with the IITs)
+Senior Year at RGIPT(An INI at par with the IITs)
 
 My Moto: Code hard, think harder, enjoy hardest.
 
@@ -12,22 +12,20 @@ My Moto: Code hard, think harder, enjoy hardest.
 #include <vector>
 #include<algorithm>
 using namespace std;
-#define passion coding|Getting the best possible solutions
+#define passion coding|teaching machines to think and humans to dream.
 
 
 
 int about_me
     {
-    vector<string> languages = {"C++", "JAVA"};
-    vector<string> love = {"Coding", "Designing Efficient Algorithms", "Debugging", "Solving unsolved", "Visiting new places"};
-    vector<string> projects = {"Battleship.java"};
-    vector<string> upcoming projects = {"RGPTI Banking System"};
-    vector<string> my organisation = {"RGIPT ACM Student Chapter"};
-    vector<string> My position = {"Secretary"};
-    cout<<"Visit me at [LinkedIn](https://www.linkedin.com/in/advait-gupta-349b4465/)"<<endl;
+    vector<string> languages = {"C++", "JAVA", "Python", "C#"};
+    vector<string> love = {"Coding", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "Generative AI", "Designing Efficient Algorithms", "Debugging", "Solving unsolved", "Visiting new places"};
+    vector<string> projects = {"Battleship.java", "RGIPT Banking System", "Emotion Recognition System", "Vaidya Healthcare Application", "Billboard Advertisement Recommendation System", "Emotion Based Poem Generation System"};
+    vector<string> my organisation = {"Ernst & Young"};
+    vector<string> My position = {"Summer Intern"};
+    cout<<"Visit me at [LinkedIn](https://www.linkedin.com/in/advait25/)"<<endl;
     cout<<"Visit me at [Instagram](https://www.instagram.com/advait__52/)"<<endl;
-    cout<<"My Project: https://github.com/advaitgupta/Battleship"<<endl;
-    cout<<"My Project: https://github.com/advaitgupta/BankingSystem"<<endl;
+    cout<<"Visit me at [Google Scholar](https://scholar.google.com/citations?user=xbA5PfUAAAAJ&hl=en&oi=ao)"<<endl;
     cout<<"Thanks for visiting";
     }
 ​
