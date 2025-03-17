@@ -6,30 +6,10 @@ My Moto: Code hard, think harder, enjoy hardest.
 
 <h3>
     
-```c++
-​
-#include <iostream>
-#include <vector>
-#include<algorithm>
-using namespace std;
-#define passion coding|teaching machines to think and humans to dream.
+Hi! 👋 I am currently pursuing an M.S. in Machine Learning at the University of Maryland, College Park, and am part of Prof. Tianyi Zhou’s research lab. My research broadly encompasses machine learning with specific interests in computer vision, natural language processing, multimodal techniques, and generative AI. I am particularly passionate about building intelligent agents that leverage reasoning capabilities to effectively perform vision-related tasks and decision-making processes. Previously, I earned my B.Tech degree in Computer Science from Rajiv Gandhi Institute of Petroleum Technology where I researched on applying computer vision techniques in healthcare, construction and urban analytics.
 
+I am actively seeking internship opportunities for Summer 2025 to further advance these research interests. I am open to collaborating—if my research interests and work resonate with you, feel free to reach out to discuss potential opportunities!
 
-
-int about_me
-    {
-    vector<string> languages = {"C++", "JAVA", "Python", "C#"};
-    vector<string> love = {"Coding", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "Generative AI", "Designing Efficient Algorithms", "Debugging", "Solving unsolved", "Visiting new places"};
-    vector<string> projects = {"Battleship.java", "RGIPT Banking System", "Emotion Recognition System", "Vaidya Healthcare Application", "Billboard Advertisement Recommendation System", "Emotion Based Poem Generation System"};
-    vector<string> my organisation = {"Ernst & Young"};
-    vector<string> My position = {"Summer Intern"};
-    cout<<"Visit me at [LinkedIn](https://www.linkedin.com/in/advait25/)"<<endl;
-    cout<<"Visit me at [Instagram](https://www.instagram.com/advait__52/)"<<endl;
-    cout<<"Visit me at [Google Scholar](https://scholar.google.com/citations?user=xbA5PfUAAAAJ&hl=en&oi=ao)"<<endl;
-    cout<<"Thanks for visiting";
-    }
-​
-```
 <p align="center"> 
   <br>Visitor count<br>
   <img src="https://profile-counter.glitch.me/advaitgupta/count.svg"/>
